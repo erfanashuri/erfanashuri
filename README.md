@@ -2,7 +2,7 @@
 
   erfan ashuri
 - Interested in fullstack web developing.
-- Familiar with Html, Css, Js, PHP, Bootstrap, AlphineJs.
+- Familiar with Html, Css, Js, PHP, Bootstrap, AlpineJs.
 - Learning laravel.
 - You can reach me by:
 my phone number = +98 919 96 022 96
